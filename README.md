@@ -14,3 +14,11 @@ pipenv install
 pipenv shell
 python download.py # For downloading the cammembert model locally
 ```
+
+## Install packages for DL
+
+```sh
+cd DL
+pipenv install
+pipenv shell
+```
