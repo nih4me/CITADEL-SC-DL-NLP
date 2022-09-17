@@ -21,4 +21,5 @@ python download.py # For downloading the cammembert model locally
 cd DL
 pipenv install
 pipenv shell
+python download.py # For downloading nltk data locally
 ```
