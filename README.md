@@ -12,7 +12,7 @@ pip install pipenv
 cd NLP
 pipenv install
 pipenv shell
-python download.py # For downloading the cammembert model locally
+python download.py # For downloading the cammembert model, nltk data, ... locally
 ```
 
 ## Install packages for DL
@@ -21,5 +21,5 @@ python download.py # For downloading the cammembert model locally
 cd DL
 pipenv install
 pipenv shell
-python download.py # For downloading nltk data locally
+python download.py # For downloading .... locally
 ```
