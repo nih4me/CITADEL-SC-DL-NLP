@@ -11,6 +11,7 @@ pip install pipenv
 ```sh
 cd NLP
 pipenv install
+pip install torch
 pipenv shell
 python download.py # For downloading the cammembert model, nltk data, ... locally
 ```
