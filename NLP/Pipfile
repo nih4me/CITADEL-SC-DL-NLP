@@ -11,6 +11,7 @@ spacy = "*"
 scikit-learn = "*"
 jupyterlab = "*"
 transformers = "*"
+sentencepiece = "*"
 
 [dev-packages]
 
