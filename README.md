@@ -11,8 +11,9 @@ pip install pipenv
 ```sh
 cd NLP
 pipenv install
-pip install torch
 pipenv shell
+pip install torch
+python3 -m spacy download fr_core_news_sm
 python download.py # For downloading the cammembert model, nltk data, ... locally
 ```
 
