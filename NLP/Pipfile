@@ -12,6 +12,11 @@ scikit-learn = "*"
 jupyterlab = "*"
 transformers = "*"
 sentencepiece = "*"
+ipywidgets = "*"
+jupyterlab-widgets = "*"
+seaborn = "*"
+matplotlib = "*"
+dill = "*"
 
 [dev-packages]
 
